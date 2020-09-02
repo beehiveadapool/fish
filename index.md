@@ -1,8 +1,8 @@
-## Welcome to my Cardano staking pool
+## Welcome to Honey Bee Cardano staking pool
 
-You can use the [editor on GitHub](https://github.com/beehiveadapool/fish/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+As the name indicates we here are Honey Bee staking pool want our stake holders benefit the most with the lowest fixed and variable fees. Like a lavendar flower both provides a very pleasant smell to everyone who pass by and high nectat content to honey bees.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For us the top most priority will be to work towards the benefit of stake holdes on this pool. As more and more people start staking on our staking pool we will evaluate our expences vs profits and adjust our fees both constant and variable to a minimum so that both of us benefit
 
 ### Markdown
 
@@ -12,6 +12,7 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 Syntax highlighted code block
 
 # Header 1
+
 ## Header 2
 ### Header 3
 
