@@ -7,3 +7,6 @@ For us the top most priority will be to work towards the benefit of stake holdes
 ### Future plans
 
 As you can see this website is very preliminary and under development. We will be going to add a lot more features in the near future
+We are just started and will be will be adding many more metrics and helpful data to the site in the near future
+
+
